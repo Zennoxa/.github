@@ -10,5 +10,5 @@ Zennoxa Shield scans your source code, dependencies, secrets, containers, and in
 
 - 🌐 **Try it — free during beta:** https://zennoxa.com
 - 💻 **CLI (download & docs):** https://github.com/Zennoxa/shield
-- 📖 **Documentation:** https://zennoxa.com/docs · **User guide:** https://shield.zennoxa.com/guide
+- 📖 **Documentation:** https://zennoxa.com/docs · **User guide:** https://zennoxa.com/guide
 - 🐛 **Bugs & feature requests:** https://github.com/Zennoxa/shield/issues
