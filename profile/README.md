@@ -11,7 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Zennoxa/shield/blob/main/LICENSE)
 ![Platforms](https://img.shields.io/badge/platforms-macOS%20%C2%B7%20Linux%20%C2%B7%20Windows-informational)
 
-[**Website**](https://zennoxa.com) · [**CLI & Docs**](https://github.com/Zennoxa/shield) · [**Benchmarks**](https://github.com/Zennoxa/shield/blob/main/docs/EVIDENCE.md) · [**Issues**](https://github.com/Zennoxa/shield/issues)
+[**Website**](https://zennoxa.com) · [**CLI**](https://github.com/Zennoxa/shield) · [**Docs**](https://zennoxa.com/docs) · [**Guide**](https://zennoxa.com/guide) · [**Benchmarks**](https://github.com/Zennoxa/shield/blob/main/docs/EVIDENCE.md) · [**Issues**](https://github.com/Zennoxa/shield/issues)
 
 </div>
 
