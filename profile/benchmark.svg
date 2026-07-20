@@ -1,24 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
-  <rect x="1" y="1" width="638" height="298" rx="12" fill="#0d1117" stroke="#30363d"/>
-  <text x="24" y="40" fill="#e6edf3" font-size="18" font-weight="700">OWASP Benchmark v1.2 — Benchmark Score</text>
-  <text x="24" y="60" fill="#8b949e" font-size="12">Higher is better (TPR &#8722; FPR) &#183; 2,740 labelled Java tests &#183; reproducible</text>
-
-  <text x="24" y="102" fill="#3fb950" font-size="13" font-weight="700">Shield</text>
-  <rect x="150" y="90" width="360" height="16" rx="3" fill="#3fb950"/>
-  <text x="520" y="102" fill="#3fb950" font-size="13" font-weight="700">+0.450</text>
-
-  <text x="24" y="147" fill="#c9d1d9" font-size="13">FindSecBugs</text>
-  <rect x="150" y="135" width="350" height="16" rx="3" fill="#3d4a5c"/>
-  <text x="510" y="147" fill="#8b949e" font-size="13">+0.438</text>
-
-  <text x="24" y="192" fill="#c9d1d9" font-size="13">SonarQube</text>
-  <rect x="150" y="180" width="258" height="16" rx="3" fill="#3d4a5c"/>
-  <text x="418" y="192" fill="#8b949e" font-size="13">+0.323</text>
-
-  <text x="24" y="237" fill="#c9d1d9" font-size="13">OWASP ZAP</text>
-  <rect x="150" y="225" width="138" height="16" rx="3" fill="#3d4a5c"/>
-  <text x="298" y="237" fill="#8b949e" font-size="13">+0.172</text>
-
-  <line x1="24" y1="262" x2="616" y2="262" stroke="#21262d"/>
-  <text x="24" y="285" fill="#8b949e" font-size="12">Shield: <tspan fill="#3fb950" font-weight="700">+0.450</tspan> at 92.8% precision (our measurement) &#183; competitor rows from OWASP&#8217;s published scorecards</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+  <rect x="1" y="1" width="638" height="198" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="32" y="46" fill="#e6edf3" font-size="17" font-weight="700">OWASP Benchmark v1.2 — Shield's result</text>
+  <text x="32" y="108" fill="#3fb950" font-size="52" font-weight="800">+0.450</text>
+  <text x="250" y="92" fill="#8b949e" font-size="14">Benchmark Score (TPR &#8722; FPR)</text>
+  <text x="250" y="114" fill="#e6edf3" font-size="16" font-weight="700">92.8% precision</text>
+  <line x1="32" y1="140" x2="608" y2="140" stroke="#21262d"/>
+  <text x="32" y="166" fill="#8b949e" font-size="12.5">Measured on the public suite (2,740 Java tests) &#183; reproducible: run the Shield CLI against it yourself.</text>
+  <text x="32" y="186" fill="#8b949e" font-size="12.5">See how other tools score on OWASP&#8217;s own published scorecards &#8594; owasp.org/www-project-benchmark</text>
 </svg>
