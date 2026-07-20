@@ -27,6 +27,8 @@ Most scanners bury you in findings. **Shield runs SAST, secrets, dependency, con
 
 ### 📊 Proof, not claims
 
+<div align="center"><img src="profile/benchmark.svg" alt="OWASP Benchmark v1.2 — Shield #1 at 92.8% precision" width="560"></div>
+
 - 🏆 **#1 on the [OWASP Benchmark v1.2](https://owasp.org/www-project-benchmark/)** (2,740 labelled Java tests) at **92.8% precision** — the highest Benchmark Score of the tools measured.
 - On a real Node project: caught **9 / 9** known-vulnerable advisories where `npm audit` found 3 and Trivy 2 (default config).
 - Every number is reproducible — and we publish the weak spots too → **[see the full evidence →](https://github.com/Zennoxa/shield/blob/main/docs/EVIDENCE.md)**
