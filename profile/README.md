@@ -27,7 +27,7 @@ Most scanners bury you in findings. **Shield runs SAST, secrets, dependency, con
 
 ### 📊 Proof, not claims
 
-<div align="center"><img src="profile/benchmark.svg" alt="OWASP Benchmark v1.2 — Shield +0.450 Benchmark Score at 92.8% precision" width="560"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Zennoxa/.github/main/profile/benchmark.svg" alt="OWASP Benchmark v1.2 — Shield +0.450 Benchmark Score at 92.8% precision" width="560"></div>
 
 - **[OWASP Benchmark v1.2](https://owasp.org/www-project-benchmark/)** (2,740 labelled Java tests): Shield scores **+0.450 at 92.8% precision** — reproducible; competitor scores are OWASP&#8217;s own published figures.
 - On a real Node project: Shield detected **all 9** known-vulnerable advisories — reproduce and compare with any tool.
