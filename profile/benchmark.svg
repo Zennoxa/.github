@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
   <rect x="1" y="1" width="638" height="198" rx="12" fill="#0d1117" stroke="#30363d"/>
   <text x="32" y="46" fill="#e6edf3" font-size="17" font-weight="700">OWASP Benchmark v1.2 — Shield's result</text>
-  <text x="32" y="108" fill="#3fb950" font-size="52" font-weight="800">+0.450</text>
+  <text x="32" y="108" fill="#3fb950" font-size="52" font-weight="800">+0.547</text>
   <text x="250" y="92" fill="#8b949e" font-size="14">Benchmark Score (TPR &#8722; FPR)</text>
-  <text x="250" y="114" fill="#e6edf3" font-size="16" font-weight="700">92.8% precision</text>
+  <text x="250" y="114" fill="#e6edf3" font-size="16" font-weight="700">92.4% precision</text>
   <line x1="32" y1="140" x2="608" y2="140" stroke="#21262d"/>
   <text x="32" y="166" fill="#8b949e" font-size="12.5">Measured on the public suite (2,740 Java tests) &#183; reproducible: run the Shield CLI against it yourself.</text>
   <text x="32" y="186" fill="#8b949e" font-size="12.5">See how other tools score on OWASP&#8217;s own published scorecards &#8594; owasp.org/www-project-benchmark</text>
